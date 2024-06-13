@@ -3,7 +3,7 @@
 
 
 A minimal starter project with [Waku](https://waku.gg/) and [Mantine](https://mantine.dev/). Includes Tailwind CSS and Mantine.
-
+![img.png](img.png)
 
 ## Getting started
 
